@@ -14,3 +14,9 @@ This package contains
 - `prettier.json` - A prettier config file
 - `tsconfig.json` - A Typescript config file
 - `jest.config.js` - A Jest config file
+
+## Support
+
+You can support the development of `bridge-tools` at
+
+<a href="https://www.buymeacoffee.com/bridgetools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

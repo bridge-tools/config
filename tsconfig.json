@@ -1,5 +1,4 @@
 {
-  "include": ["src", "types", "test"],
   "compilerOptions": {
     "module": "CommonJS",
     "lib": ["esnext"],

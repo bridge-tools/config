@@ -1,6 +1,6 @@
 {
   "name": "@bridge-tools/config",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Contains all of the configuration files (eslint, tsconfig...) for the @bridge-tools projects.",
   "main": "tsconfig.json",
   "scripts": {

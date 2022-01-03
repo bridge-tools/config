@@ -51,6 +51,7 @@ module.exports = function (dir) {
         },
       ],
       "@typescript-eslint/ban-ts-comment": "off",
+      "unicorn/prefer-node-protocol": "off",
     },
     plugins: [
       "prettier",
